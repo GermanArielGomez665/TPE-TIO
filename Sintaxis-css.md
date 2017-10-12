@@ -50,3 +50,8 @@ Hace lo mismo que todas estas
 
 
 *El codigo de arriba, modifica el color de todos los parrafos en el html*
+
+
+### ¿Cuando usar "id" o cuando usar “class”?
+
+> Las "id" se utilizan para objetos unicos, se identifican con **"#"** a la hora de ponerle las propiedades que queremos en CSS
